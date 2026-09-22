@@ -1,16 +1,12 @@
-## Hi there 👋
+My name is Rani Bhakta
+LinkedIn: www.linkedin.com/in/rani-bhakta-320a69312
 
-<!--
-**ranibhakta/ranibhakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on finance and aerospace data projects
+- 🌱 I’m currently learning R and SQL
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with finding internships
+- 💬 Ask me about anything
+- 📫 How to reach me: ranisbhakta@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can juggle
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
