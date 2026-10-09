@@ -1,4 +1,5 @@
 My name is Rani Bhakta
+
 LinkedIn: www.linkedin.com/in/rani-bhakta-320a69312
 
 - 🔭 I’m currently working on finance and aerospace data projects
